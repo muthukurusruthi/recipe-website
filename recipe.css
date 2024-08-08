@@ -4,10 +4,7 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    background-image: url('https://images.pexels.com/photos/4021972/pexels-photo-4021972.jpeg?auto=compress&cs=tinysrgb&w=600');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+
 }
 
 header {
